@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fresh Eggs",
+    "price": "\u20a62,500 per crate",
+    "image": "https://via.placeholder.com/250x200?text=Eggs",
+    "link": "https://wa.me/2349159474017?text=Hello%2C+I+want+to+order+Fresh+Eggs+%E2%80%93+1+crate"
+  },
+  {
+    "name": "Garri (Yellow/White)",
+    "price": "\u20a63,000 per bag",
+    "image": "https://via.placeholder.com/250x200?text=Garri",
+    "link": "https://wa.me/2349159474017?text=Hello%2C+I+want+to+order+Garri+%E2%80%93+1+bag"
+  },
+  {
+    "name": "Smoked Catfish",
+    "price": "\u20a62,500 per piece",
+    "image": "https://via.placeholder.com/250x200?text=Catfish",
+    "link": "https://wa.me/2349159474017?text=Hello%2C+I+want+to+order+Smoked+Catfish+%E2%80%93+1+piece"
+  },
+  {
+    "name": "Palm Oil (5L)",
+    "price": "\u20a65,500 per 5L",
+    "image": "https://via.placeholder.com/250x200?text=Palm+Oil",
+    "link": "https://wa.me/2349159474017?text=Hello%2C+I+want+to+order+Palm+Oil+%E2%80%93+5L"
+  },
+  {
+    "name": "Plantain",
+    "price": "\u20a62,800 per bunch",
+    "image": "https://via.placeholder.com/250x200?text=Plantain",
+    "link": "https://wa.me/2349159474017?text=Hello%2C+I+want+to+order+Plantain+%E2%80%93+1+bunch"
+  }
+]
